@@ -1,1 +1,1 @@
-{"f1-score-without-imbalance": 0.5706806282722513, "accuracy-without-imbalance": 0.8592677345537757, "f1-score-with-class-weights": 0.5728813559322034, "accuracy-with-class-weights": 0.8558352402745996, "f1-score-with-SMOTE": 0.5961685823754789, "accuracy-with-SMOTE": 0.8492562929061785}
+{"f1-score-without-imbalance": 0.5934897804693414, "accuracy-without-imbalance": 0.8655146506386175, "f1-score-with-class-weights": 0.5906040268456376, "accuracy-with-class-weights": 0.8625093914350113, "f1-score-with-SMOTE": 0.6089872568745808, "accuracy-with-SMOTE": 0.8539944903581267}

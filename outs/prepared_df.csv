@@ -251,7 +251,6 @@ CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActive
 739,Germany,Male,54,8,126418.14,1,1,0,134420.75,1
 771,Germany,Female,36,5,77846.9,1,0,0,99805.99,0
 587,Spain,Female,34,1,0.0,2,1,1,97932.68,0
-681,France,Female,79,0,0.0,2,0,1,170968.99,0
 544,Germany,Male,37,2,79731.91,1,1,1,57558.95,0
 696,Spain,Male,28,8,0.0,1,0,0,176713.47,0
 766,Spain,Male,41,0,0.0,2,0,1,34283.23,0
@@ -309,7 +308,6 @@ CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActive
 629,Germany,Male,35,7,156847.29,2,1,0,31824.29,0
 614,France,Male,50,4,137104.47,1,1,0,127166.49,1
 438,Germany,Male,31,8,78398.69,1,1,0,44937.01,0
-652,France,Female,80,4,0.0,2,1,1,188603.07,0
 729,Germany,Male,30,6,63669.42,1,1,0,145111.37,0
 642,France,Male,38,3,0.0,2,0,0,171463.83,0
 806,Germany,Female,59,0,135296.33,1,1,0,182822.5,0
@@ -3645,7 +3643,6 @@ CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActive
 545,France,Male,47,8,105792.49,1,0,1,67830.2,1
 597,France,Male,41,4,153198.23,1,1,1,92090.36,0
 537,France,Male,38,3,0.0,2,0,0,141023.01,0
-732,France,Male,79,10,61811.23,1,1,1,104222.8,0
 542,France,Male,34,8,101116.06,1,1,0,196395.05,0
 688,Germany,Female,46,0,74458.25,1,0,1,6866.31,0
 542,Germany,Male,33,8,142871.27,2,0,0,77737.86,0
@@ -3988,7 +3985,6 @@ CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActive
 496,Germany,Female,59,7,91680.1,2,1,0,163141.18,1
 730,Germany,Male,38,0,38848.19,2,0,0,94003.11,0
 696,Spain,Male,40,3,153639.11,1,1,1,138351.68,0
-809,Spain,Male,80,8,0.0,2,0,1,34164.05,0
 701,Spain,Female,33,7,123870.07,1,1,0,97794.71,0
 604,France,Male,30,5,0.0,2,1,0,75786.55,0
 665,France,Male,39,10,46323.57,1,1,0,136812.02,0
@@ -4826,7 +4822,6 @@ CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActive
 687,France,Male,34,5,128270.56,1,1,0,191092.62,0
 660,Spain,Male,30,4,0.0,2,1,0,129149.06,0
 660,France,Male,35,7,0.0,2,1,0,13218.6,0
-617,France,Female,79,7,0.0,1,1,1,160589.18,0
 762,France,Male,32,10,191775.65,1,1,0,179657.83,0
 752,Spain,Female,35,2,0.0,1,1,0,44335.54,1
 561,Spain,Male,34,4,85141.79,2,1,1,29217.37,0
@@ -5061,7 +5056,6 @@ CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActive
 832,France,Female,27,10,98590.25,1,1,0,30912.89,0
 567,France,Female,26,2,0.0,2,1,1,78651.55,0
 587,Germany,Female,45,8,134980.74,1,1,1,123309.57,1
-712,Spain,Female,79,5,108078.56,1,1,1,174118.93,0
 655,Spain,Female,29,9,0.0,2,0,1,85736.26,0
 641,France,Female,42,6,0.0,2,0,0,121138.77,0
 676,France,Male,35,5,106836.67,2,1,0,84199.78,0
@@ -9477,7 +9471,6 @@ CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActive
 850,Spain,Female,32,5,0.0,1,1,1,3830.59,0
 671,Spain,Male,32,6,123912.78,2,1,1,146636.44,0
 791,France,Female,33,3,0.0,1,1,1,144413.92,1
-624,France,Male,80,3,0.0,1,1,1,65801.44,0
 649,France,Female,35,4,108306.44,1,1,1,192486.24,0
 732,Germany,Female,48,4,102962.62,1,1,0,120852.85,1
 664,France,Female,36,0,103502.22,1,1,1,146191.82,0
