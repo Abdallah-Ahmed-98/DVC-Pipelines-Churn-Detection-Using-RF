@@ -1,0 +1,1 @@
+{"f1-score-without-imbalance": 0.5706806282722513, "accuracy-without-imbalance": 0.8592677345537757, "f1-score-with-class-weights": 0.5728813559322034, "accuracy-with-class-weights": 0.8558352402745996, "f1-score-with-SMOTE": 0.5961685823754789, "accuracy-with-SMOTE": 0.8492562929061785}
